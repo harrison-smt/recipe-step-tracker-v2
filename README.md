@@ -1,3 +1,12 @@
+PROJECT #2 README:
+
+Resources used:
+For passing data from one page to the next: ByteGrad on Youtube - https://www.youtube.com/watch?v=o87z9bK7olE
+For displaying cards using react: Code Complete on Youtube - https://www.youtube.com/watch?v=Ts3kTbdQ_4U
+For using the React router: Cosden solutions on Youtube - https://www.youtube.com/watch?v=oTIJunBa6MA
+For parsing text area line by line: ChatGPT - https://www.chat.com
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
